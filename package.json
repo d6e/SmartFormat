@@ -1,0 +1,10 @@
+{
+  "name": "com.axuno.smartformat",
+  "version": "3.2.2",
+  "displayName": "SmartFormat",
+  "description": "A string composition library written in C# that can format data into a string with a minimal, intuitive syntax.",
+  "unity": "2019.4",
+  "dependencies": {
+  }
+}
+
